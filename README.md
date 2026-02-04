@@ -14,7 +14,6 @@
 - 🌍 Open to opportunities in **Brazil & internationally**
 - 🎵 Musician — because not everything compiles
 - 🌱 Building a digital garden: **[Caixola do Brands](https://caixola.gabrielbrandao.net)**
-- 💼 Currently at **[@OrangeWallDevs](https://github.com/OrangeWallDevs)**
 
 ---
 
@@ -59,10 +58,10 @@
 <table>
 <tr>
 <td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=brandaogabriel7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="100%" />
+<img src="https://gh-readme-stats-beige.vercel.app/api?username=brandaogabriel7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="100%" />
 </td>
 <td width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brandaogabriel7&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="100%" />
+<img src="https://gh-readme-stats-beige.vercel.app/api/top-langs/?username=brandaogabriel7&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="100%" />
 </td>
 </tr>
 </table>
