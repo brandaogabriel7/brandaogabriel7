@@ -48,6 +48,7 @@
 **Databases & Tools**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
@@ -75,5 +76,5 @@
 ### Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-silva-brandao)
-[![Digital Garden](https://img.shields.io/badge/Digital_Garden-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://caixola.gabrielbrandao.net)
+[![Digital Garden](https://img.shields.io/badge/Digital_Garden-4CAF50?style=for-the-badge&logo=googlechrome&logoColor=white)](https://caixola.gabrielbrandao.net)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@gabrielbrandao.net)
