@@ -67,7 +67,7 @@
 </table>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=brandaogabriel7&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats-pink-two.vercel.app/?user=brandaogabriel7&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
