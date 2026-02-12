@@ -55,6 +55,74 @@
 
 ---
 
+### Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+**[Second Brain RAG](https://github.com/brandaogabriel7/second-brain-rag)**
+
+RAG system that searches over Obsidian notes and Readwise highlights, turning your personal knowledge base into a queryable AI assistant.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=flat-square)
+![Claude](https://img.shields.io/badge/Claude-191919?style=flat-square&logo=anthropic&logoColor=white)
+
+</td>
+<td width="50%">
+
+**[Basic LLM Chat CLI](https://github.com/brandaogabriel7/basic-llm-chat-cli)**
+
+Interactive CLI chat with streaming responses, conversation history, and slash commands — built with Python and the Anthropic SDK.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic_SDK-191919?style=flat-square&logo=anthropic&logoColor=white)
+![Rich](https://img.shields.io/badge/Rich-4B8BBE?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**[Weather Pipeline](https://github.com/brandaogabriel7/weather-pipeline)**
+
+ETL pipeline that extracts weather data from Open-Meteo, transforms and loads into PostgreSQL. Orchestrated with Apache Airflow.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+</td>
+<td width="50%">
+
+**[Books API](https://github.com/brandaogabriel7/books-api)**
+
+RESTful API with automatic ISBN data enrichment via Open Library. Clean architecture with DDD, Redis caching, and full CI/CD.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+
+**[Hexagonal Architecture in Go](https://github.com/brandaogabriel7/full-cycle-arquitetura-hexagonal)**
+
+Product management app demonstrating Hexagonal Architecture (Ports & Adapters) with CLI + HTTP adapters and SQLite persistence.
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+---
+
 ### GitHub Stats
 
 <table>
