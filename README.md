@@ -107,7 +107,7 @@ RESTful API with automatic ISBN data enrichment via Open Library. Clean architec
 </td>
 </tr>
 <tr>
-<td colspan="2" align="center">
+<td width="50%">
 
 **[Hexagonal Architecture in Go](https://github.com/brandaogabriel7/full-cycle-arquitetura-hexagonal)**
 
@@ -116,6 +116,17 @@ Product management app demonstrating Hexagonal Architecture (Ports & Adapters) w
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+</td>
+<td width="50%">
+
+**[VicPhysio](https://github.com/brandaogabriel7/vicphysio-gerenciador-de-fichas)**
+
+Desktop app for physiotherapists to manage patient profiles and assessment records. Offline-first with Clean Architecture and DDD.
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
 
 </td>
 </tr>
